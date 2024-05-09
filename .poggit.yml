@@ -1,4 +1,6 @@
---- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/WAXdev974/TransferServer
+Poggit-CI is enabled for this repo by @WAXdev974
+Visit the Poggit-CI page for this repo at
+https://poggit.pmmp.io/ci/WAXdev974/TransferServer
 build-by-default: true
 branches:
 - main
